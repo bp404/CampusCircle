@@ -1,0 +1,5 @@
+platform :ios, '9.3'
+use_frameworks!
+pod 'Alamofire', :git => 'https://github.com/Alamofire/Alamofire.git'
+pod 'SwiftyJSON', :git => 'https://github.com/SwiftyJSON/SwiftyJSON.git'
+
