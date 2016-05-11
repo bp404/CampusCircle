@@ -9,9 +9,9 @@
 import UIKit
 import Alamofire
 import SwiftyJSON
-let url = NSURL(string: "http://218.7.221.122/score/index.html")
 class ScoreViewController: UIViewController {
- 
+    let url = NSURL(string: "http://218.7.221.122/score/index.html")
+
  
     @IBOutlet weak var score: UIWebView!
 
