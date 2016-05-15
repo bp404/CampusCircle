@@ -284,7 +284,7 @@ public class Request {
                 }
             } else {
                 if challenge.previousFailureCount > 0 {
-                    disposition = .RejectProtectionSpace
+                    disposition = .CancelAuthenticationChallenge
                 } else {
                     credential = self.credential ?? session.configuration.URLCredentialStorage?.defaultCredentialForProtectionSpace(challenge.protectionSpace)
 

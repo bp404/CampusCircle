@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "7586D80605E7E3760EA0F6BB635AAFC8F51E86E4",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "71734A52AFCB45AC1DD1FF90EA4E217EBE37D15B" : 0,
+    "7586D80605E7E3760EA0F6BB635AAFC8F51E86E4" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C2274879-2542-4701-A0BD-2C5F1071141F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "71734A52AFCB45AC1DD1FF90EA4E217EBE37D15B" : "CampusCircle\/",
+    "7586D80605E7E3760EA0F6BB635AAFC8F51E86E4" : "%E4%B9%94%E6%A5%A0\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "apptest",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "apptest.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/bp404\/CampusCircle.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "71734A52AFCB45AC1DD1FF90EA4E217EBE37D15B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ql829\/apptest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7586D80605E7E3760EA0F6BB635AAFC8F51E86E4"
+    }
+  ]
+}

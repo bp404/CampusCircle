@@ -14,7 +14,7 @@ EXTERNAL SOURCES:
 
 CHECKOUT OPTIONS:
   Alamofire:
-    :commit: 4edf17756fdde9f6d834f1715f234ef1b5022c23
+    :commit: 34ab394064e820d5f565d05174c7458729c6c53f
     :git: https://github.com/Alamofire/Alamofire.git
   SwiftyJSON:
     :commit: 2a5b70f06001316d4fb54501edc70b4084705da0
